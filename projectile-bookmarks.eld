@@ -1,0 +1,1 @@
+("~/Github/llvm/llvm-tutor/" "~/Github/frostwing98.github.io/" "~/.emacs.d/elpa/jedi-core-20191011.1750/")

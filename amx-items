@@ -1,0 +1,40 @@
+
+;; ----- amx-history -----
+(
+ shell
+ eaf-open
+ text-mode
+ ivy-mode
+ isearch-forward
+ vlf
+ eaf-open-url
+)
+
+;; ----- amx-data -----
+(
+ (package-install . 13)
+ (page-break-lines-mode . 6)
+ (pretty-mode . 1)
+ (all-the-icons-ivy-rich-mode . 2)
+ (all-the-icons-dired-mode . 1)
+ (all-the-icons-install-fonts . 2)
+ (package-list-packages . 1)
+ (eaf-open-browser . 14)
+ (eaf-open . 54)
+ (kill-line . 1)
+ (doc-view-mode . 2)
+ (doc-view-clear-cache . 2)
+ (eaf-proxy-toggle_inverted_mode . 2)
+ (eaf-proxy-toggle_read_mode . 2)
+ (shell . 6)
+ (doc-view-open-text . 2)
+ (profiler-start . 1)
+ (profiler-report . 2)
+ (eaf-open-url . 4)
+ (font-lock-mode . 2)
+ (color-identifiers-mode . 1)
+ (vlf . 3)
+ (ivy-mode . 3)
+ (isearch-forward . 4)
+ (text-mode . 3)
+)
